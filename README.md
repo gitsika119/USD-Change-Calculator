@@ -4,4 +4,4 @@
 <br>
 <b>How to use code:</b>
 <br>
-<p>Download zip and then run the file Change Calculator.py</p>
+<p>Download zip and then run the file Change Calculator.cpp</p>
